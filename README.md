@@ -1673,10 +1673,10 @@ SOFTWARE.
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/SIEM-AI-Analyzer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/SIEM-AI-Analyzer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/SIEM-AI-Analyzer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/SIEM-AI-Analyzer)
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response?style=social)
+![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response)
 
 ---
 
