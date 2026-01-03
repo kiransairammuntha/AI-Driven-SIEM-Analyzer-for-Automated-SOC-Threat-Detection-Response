@@ -1655,9 +1655,9 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-- **Project Repository**: https://github.com/yourusername/siem-ai-analyzer
-- **Issues**: https://github.com/yourusername/siem-ai-analyzer/issues
-- **Discussions**: https://github.com/yourusername/siem-ai-analyzer/discussions
+- **Project Repository**: https://github.com/kiransairammuntha/YOUR-REPO-NAME
+- **Issues**: https://github.com/kiransairammuntha/YOUR-REPO-NAME/issues
+- **Discussions**: https://github.com/kiransairammuntha/YOUR-REPO-NAME/discussions
 
 ---
 
@@ -1674,10 +1674,10 @@ SOFTWARE.
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/siem-ai-analyzer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/siem-ai-analyzer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/siem-ai-analyzer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/siem-ai-analyzer)
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/SIEM-AI-Analyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/SIEM-AI-Analyzer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/SIEM-AI-Analyzer)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/SIEM-AI-Analyzer)
 
 ---
 
