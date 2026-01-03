@@ -1655,10 +1655,9 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
-- **Project Repository**: https://github.com/kiransairammuntha/YOUR-REPO-NAME
-- **Issues**: https://github.com/kiransairammuntha/YOUR-REPO-NAME/issues
-- **Discussions**: https://github.com/kiransairammuntha/YOUR-REPO-NAME/discussions
-
+- **Project Repository**: https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response
+- **Issues**: https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response/issues
+- **Discussions**: https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response/discussions
 ---
 
 ## 🙏 Acknowledgments
