@@ -168,10 +168,9 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 
 ## 🏗️ System Architecture
 
-
+<div align="center">
 
 ```
-<div align="center">
 
 ┌─────────────────────────────────────────────────────────────────────────────────┐
 │                             AZURE CLOUD PLATFORM                                │
@@ -237,9 +236,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
                     │            🔔 Real-time Notifications    │
                     └──────────────────────────────────────────┘
 
-</div>
-
 ```
+</div>
 
 
 **Data Collection Layer:**
