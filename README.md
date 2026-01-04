@@ -476,6 +476,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
    - Actions: Verify with user, create investigation case, monitor session
    - Detects compromised credentials
 
+```
+
                      AUTOMATED PLAYBOOK EXECUTION
                      ============================
 
@@ -599,6 +601,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
                   │                  │
                   └──────────────────┘
 
+```
+
 ### 📋 Case Management Features
 
 #### 15. **Create Security Cases**
@@ -670,6 +674,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
    - Can be enabled/disabled with toggle
 
 ### 🔔 Alert Processing Workflow
+
+```
 
                           ALERT DETECTION & RESPONSE WORKFLOW
                           ===================================
@@ -784,6 +790,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 │  PHASE 8: INVESTIGATION & RESOLUTION                                    │
 └─────────────────────────────────────────────────────────────────────────┘
 
+```
+
 ### 🔍 Investigation Features
 
 #### 20. **Alert Detail Drawer**
@@ -833,6 +841,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 ---
 
 ## 👤 How to Use the Dashboard
+
+```
 
                         USER INTERACTION FLOW
                         =====================
@@ -1028,8 +1038,11 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
                               │                  │
                               └──────────────────┘
 
+```
 
 ## 🚀 Deployment Process
+
+```
 
                          DEPLOYMENT WORKFLOW
                          ===================
@@ -1179,6 +1192,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 │  ✓ 24/7 monitoring enabled                                     │
 │                                                                  │
 └─────────────────────────────────────────────────────────────────┘
+
+```
 
 ### Infrastructure Provisioning with Terraform
 
@@ -1337,6 +1352,8 @@ This SIEM satisfies:
 
 ## 🔐 Security Operations Workflow
 
+```
+
                         INCIDENT RESPONSE LIFECYCLE
                         ===========================
 
@@ -1471,6 +1488,8 @@ This SIEM satisfies:
 │                          └──► Update training materials             │
 │                                                                     │
 └────────────────────────────────────────────────────────────────────┘
+
+```
 
 ## 🎓 Skills Demonstrated
 
