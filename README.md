@@ -1835,7 +1835,7 @@ This SIEM AI Analyzer represents a **complete, production-ready security operati
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/siem-ai-analyzer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/siem-ai-analyzer?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/siem-ai-analyzer)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/siem-ai-analyzer)
