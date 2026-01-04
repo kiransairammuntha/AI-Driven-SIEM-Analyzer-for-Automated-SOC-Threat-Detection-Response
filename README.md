@@ -110,6 +110,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 
 ## 🏗️ System Architecture
 
+```
+
 Azure Cloud Platform
         |
         v
@@ -166,6 +168,8 @@ Playbooks | IP Block | Cases
     |   |   |
     v   v   v
 Slack | Email | Toast
+
+```
 
 **Data Collection Layer:**
 - **Filebeat**: Collects logs from all servers and applications
