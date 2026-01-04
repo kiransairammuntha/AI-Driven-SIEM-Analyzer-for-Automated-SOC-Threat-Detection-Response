@@ -210,6 +210,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 
 ### Data Flow Pipeline
 
+```
+
                               DATA FLOW PIPELINE
                               ==================
 
@@ -289,6 +291,8 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
          │  • SSH Hardening    │     │  • Investigations│
          │                     │     │                  │
          └─────────────────────┘     └──────────────────┘
+
+```
 
 ## 🛠️ Technology Stack
 
