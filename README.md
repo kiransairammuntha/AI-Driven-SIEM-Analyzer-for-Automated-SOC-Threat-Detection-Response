@@ -110,47 +110,42 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 
 ## 🏗️ System Architecture
 
-graph TD
-    A[Azure Cloud Platform] --> B[Virtual Machine<br/>Standard D2s v3<br/>2 vCPU, 8GB RAM]
-    
-    B --> C[Data Collection Layer]
-    C --> D[Filebeat<br/>Log Shipper]
-    C --> E[Linux Auditd<br/>Kernel Monitoring]
-    C --> F[Wazuh Agent<br/>Event Collection]
-    
-    D --> G[Elasticsearch<br/>Log Storage & Search]
-    E --> G
-    F --> G
-    
-    G --> H[Wazuh Manager<br/>13,000+ Detection Rules<br/>MITRE ATT&CK]
-    
-    H --> I[AI Intelligence Layer]
-    I --> J[Claude AI<br/>Analysis & Chatbot]
-    I --> K[Threat Intelligence<br/>IP Reputation]
-    
-    J --> L[Visualization Layer]
-    K --> L
-    
-    L --> M[Kibana<br/>Professional Dashboards]
-    L --> N[Web Dashboard<br/>Custom UI + AI Features]
-    
-    N --> O[Response Layer]
-    O --> P[Automated Playbooks]
-    O --> Q[IP Blocking<br/>iptables]
-    O --> R[Case Management]
-    
-    O --> S[Alert Integrations]
-    S --> T[Slack Webhooks]
-    S --> U[Email Alerts]
-    S --> V[Real-time Notifications]
-    
-    style A fill:#0078D4,color:#fff
-    style B fill:#1a2332,color:#fff
-    style G fill:#005571,color:#fff
-    style H fill:#FF6B6B,color:#fff
-    style J fill:#8B5CF6,color:#fff
-    style N fill:#10b981,color:#fff
-    style S fill:#f59e0b,color:#fff
+Step 1: COLLECTION
+   ↓
+   Logs generated on servers
+   (SSH logins, file access, network activity)
+   
+Step 2: SHIPPING
+   ↓
+   Filebeat + Auditd forward logs to Elasticsearch
+   
+Step 3: STORAGE
+   ↓
+   Elasticsearch stores and indexes all events
+   
+Step 4: DETECTION
+   ↓
+   Wazuh applies 13,000+ detection rules
+   Matches against MITRE ATT&CK patterns
+   
+Step 5: ANALYSIS
+   ↓
+   Claude AI analyzes patterns
+   Generates threat summaries
+   
+Step 6: ALERTING
+   ↓
+   Slack + Email alerts sent
+   Dashboard displays alerts
+   
+Step 7: RESPONSE
+   ↓
+   Automated playbooks execute
+   IPs blocked, cases created
+   
+Step 8: INVESTIGATION
+   ↓
+   Analysts review and resolve
     
 
 **Data Collection Layer:**
