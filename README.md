@@ -1816,29 +1816,19 @@ This SIEM AI Analyzer represents a **complete, production-ready security operati
 
 ## 📞 Contact & Support
 
-- **Project Repository**: https://github.com/kiransairammuntha/siem-ai-analyzer
-- **Issues**: https://github.com/kiransairammuntha/siem-ai-analyzer/issues
-- **Discussions**: https://github.com/kiransairammuntha/siem-ai-analyzer/discussions
-
----
-
-## 🙏 Acknowledgments
-
-- **Elastic** for Elasticsearch, Kibana, and Filebeat
-- **Wazuh** for open-source SIEM capabilities
-- **Anthropic** for Claude AI API
-- **Chart.js** for visualization library
-- **Microsoft Azure** for cloud infrastructure
-- **Open Source Community** for invaluable tools and support
+- **Project Repository**: https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response
+- **Issues**: https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response/issues
+- **Discussions**: https://github.com/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response/discussions
 
 ---
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/siem-ai-analyzer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/siem-ai-analyzer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/siem-ai-analyzer)
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response?style=social)
+![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/AI-Driven-SIEM-Analyzer-for-Automated-SOC-Threat-Detection-Response)
+
 
 ---
 
