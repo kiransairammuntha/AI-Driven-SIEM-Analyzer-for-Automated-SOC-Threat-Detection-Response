@@ -1778,16 +1778,6 @@ This SIEM satisfies:
 
 ---
 
-## 📞 Project Information
-
-**Project Type:** Security Information and Event Management (SIEM) System  
-**Category:** Cybersecurity, Cloud Infrastructure, AI Integration  
-**Status:** Production-Ready  
-**Complexity:** Advanced / Enterprise-Grade  
-**Time to Deploy:** 4-6 hours for full setup
-
----
-
 ## 🎬 Project Summary
 
 This SIEM AI Analyzer represents a **complete, production-ready security operations platform** that combines:
@@ -1824,7 +1814,37 @@ This SIEM AI Analyzer represents a **complete, production-ready security operati
 
 ---
 
+## 📞 Contact & Support
+
+- **Project Repository**: https://github.com/kiransairammuntha/siem-ai-analyzer
+- **Issues**: https://github.com/kiransairammuntha/siem-ai-analyzer/issues
+- **Discussions**: https://github.com/kiransairammuntha/siem-ai-analyzer/discussions
+
+---
+
+## 🙏 Acknowledgments
+
+- **Elastic** for Elasticsearch, Kibana, and Filebeat
+- **Wazuh** for open-source SIEM capabilities
+- **Anthropic** for Claude AI API
+- **Chart.js** for visualization library
+- **Microsoft Azure** for cloud infrastructure
+- **Open Source Community** for invaluable tools and support
+
+---
+
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/kiransairammuntha/siem-ai-analyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kiransairammuntha/siem-ai-analyzer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/kiransairammuntha/siem-ai-analyzer)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kiransairammuntha/siem-ai-analyzer)
+
+---
+
 <div align="center">
+
+**Built with ❤️ for Security Operations Centers worldwide**
 
 **Built to Protect Organizations from Cyber Threats 24/7**
 
