@@ -110,53 +110,62 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 
 ## 🏗️ System Architecture
 
-AZURE CLOUD PLATFORM
-        ============================================
-        |                                          |
-        |   Virtual Machine (Standard D2s v3)     |
-        |   2 vCPUs | 8GB RAM | Ubuntu 24.04      |
-        |                                          |
-        |   DATA COLLECTION LAYER                 |
-        |   ---------------------                 |
-        |                                          |
-        |   Filebeat  -->  Auditd  -->  Wazuh     |
-        |   (Logs)         (Kernel)     (Events)  |
-        |       |             |            |       |
-        |       +-------------+------------+       |
-        |                     |                    |
-        |   STORAGE & ANALYSIS                     |
-        |   ------------------                     |
-        |                     |                    |
-        |            Elasticsearch                 |
-        |                     |                    |
-        |            Wazuh Manager                 |
-        |          (13,000+ Rules)                 |
-        |                     |                    |
-        |   INTELLIGENCE LAYER                     |
-        |   ------------------                     |
-        |                     |                    |
-        |    Claude AI    Threat Intel             |
-        |    (Analysis)   (IP Lookup)              |
-        |                     |                    |
-        |   VISUALIZATION                          |
-        |   -------------                          |
-        |                     |                    |
-        |    Kibana      Web Dashboard             |
-        |                     |                    |
-        |   RESPONSE LAYER                         |
-        |   --------------                         |
-        |                     |                    |
-        |   Playbooks  IP Block  Case Mgmt         |
-        |                     |                    |
-        ============================================
-                              |
-                              v
-                    ALERT INTEGRATIONS
-                    ------------------
-                    Slack Webhooks
-                    Email Alerts
-                    Toast Notifications
-
+Azure Cloud Platform
+        |
+        v
+Virtual Machine (2 vCPU, 8GB RAM)
+        |
+        v
+   DATA COLLECTION
+        |
+    +---+---+
+    |   |   |
+    v   v   v
+Filebeat | Auditd | Wazuh
+    |   |   |
+    +---+---+
+        |
+        v
+   STORAGE & ANALYSIS
+        |
+    +---+---+
+    |       |
+    v       v
+Elasticsearch  Wazuh Manager
+    |       (13K+ Rules)
+    +---+---+
+        |
+        v
+   INTELLIGENCE
+        |
+    +---+---+
+    |       |
+    v       v
+Claude AI  Threat Intel
+    |
+    v
+   VISUALIZATION
+        |
+    +---+---+
+    |       |
+    v       v
+Kibana  Dashboard
+    |
+    v
+   RESPONSE
+        |
+    +---+---+---+
+    |   |   |
+    v   v   v
+Playbooks | IP Block | Cases
+    |
+    v
+   ALERTS
+        |
+    +---+---+
+    |   |   |
+    v   v   v
+Slack | Email | Toast
 
 **Data Collection Layer:**
 - **Filebeat**: Collects logs from all servers and applications
