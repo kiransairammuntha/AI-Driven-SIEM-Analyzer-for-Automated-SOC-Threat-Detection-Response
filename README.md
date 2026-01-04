@@ -168,7 +168,7 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
 
 ## 🏗️ System Architecture
 
-<div align="center">
+<p align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -236,7 +236,7 @@ This isn't just a monitoring tool - it's a **complete security operations platfo
                     └──────────────────────────────────────────┘
 
 ```
-</div>
+</p>
 
 **Data Collection Layer:**
 - **Filebeat**: Collects logs from all servers and applications
